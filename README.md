@@ -4,7 +4,7 @@
 <h2 align="left">💡 About Me</h2>
 
 <p align="left">
-I'm <b>Kushal</b> — a passionate software developer who values clean, efficient, and maintainable code.<br><br>
+I'm <b>Kushal</b> — a passionate coder who values clean, efficient, and maintainable code.<br><br>
 I love learning new technologies and applying them to build solutions that make a real-world impact.<br>
 Currently, I’m exploring <b>Spring</b> and <b>Spring Boot</b> to strengthen my backend development skills.<br><br>
 Feel free to check out my repositories to see my projects and ongoing learning journey!
